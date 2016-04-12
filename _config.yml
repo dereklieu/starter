@@ -18,6 +18,15 @@ prose:
             'Foo',
             'Bar',
             'Baz']
+      - name: 'id'
+        field:
+          element: 'hidden'
+      - name: 'other-id'
+        field:
+          element: hidden'
+      - name: 'another-id'
+        field:
+          element: hidden'
     csv:
       - name: 'field'
         field:
