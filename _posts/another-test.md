@@ -1,8 +1,10 @@
 ---
-tags: null
+tags: 
+  - Bar
 published: false
 something_else: hi
 a different thing: ok
+yada yada yada: no way
 ---
 ### Something for nothing.
 
