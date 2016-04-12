@@ -2,6 +2,7 @@
 tags: null
 published: false
 something_else: hi
+a different thing: ok
 ---
 ### Something for nothing.
 
