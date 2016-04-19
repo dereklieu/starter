@@ -21,6 +21,9 @@ prose:
       - name: 'field'
         field:
           element: 'textarea'
+      - name: 'another field'
+        field:
+          element: 'textarea'
     csv:
       - name: 'field'
         field:
