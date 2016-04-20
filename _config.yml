@@ -6,25 +6,3 @@ prose:
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
-  metadata:
-    _posts:
-      - name: 'tags'
-        field:
-          element: 'multiselect'
-          label: 'Tags'
-          help: 'Choose relevant tags (optional)'
-          alterable: false
-          options: [
-            'Foo',
-            'Bar',
-            'Baz']
-      - name: 'field'
-        field:
-          element: 'textarea'
-      - name: 'another field'
-        field:
-          element: 'textarea'
-    csv:
-      - name: 'field'
-        field:
-          element: 'textarea'
