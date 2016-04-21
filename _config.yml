@@ -12,6 +12,7 @@ prose:
         field:
           element: "select"
           label: "Select language"
+          placeholder: "language"
           options:
             - name: "English"
               value: "en"
