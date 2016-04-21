@@ -10,10 +10,9 @@ prose:
     _posts:
       - name: 'tags'
         field:
-          element: 'multiselect'
+          element: 'select'
           label: 'Tags'
           help: 'Choose relevant tags (optional)'
-          alterable: false
           options: [
             'Foo',
             'Bar',
