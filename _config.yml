@@ -8,22 +8,12 @@ prose:
   media: 'media'
   metadata:
     _posts:
-      - name: 'tags'
+      - name: "lang"
         field:
-          element: 'select'
-          label: 'Tags'
-          help: 'Choose relevant tags (optional)'
-          options: [
-            'Foo',
-            'Bar',
-            'Baz']
-      - name: 'field'
-        field:
-          element: 'textarea'
-      - name: 'another field'
-        field:
-          element: 'textarea'
-    csv:
-      - name: 'field'
-        field:
-          element: 'textarea'
+          element: "select"
+          label: "Select language"
+          options:
+            - name: "English"
+              value: "en"
+            - name: "French"
+              value: "fr"
