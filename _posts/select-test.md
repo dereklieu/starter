@@ -1,5 +1,5 @@
 ---
-lang: null
+lang:
 published: false
 ---
 ## A New Post
