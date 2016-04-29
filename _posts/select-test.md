@@ -1,5 +1,7 @@
 ---
 man: woman
+published: true
+lang: ""
 ---
 ## A New Post
 
