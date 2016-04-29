@@ -10,7 +10,7 @@ prose:
     _posts:
       - name: "lang"
         field:
-          element: "select"
+          element: "multiselect"
           label: "Select language"
           placeholder: "language"
           options:
