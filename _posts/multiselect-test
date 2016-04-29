@@ -1,5 +1,7 @@
 ---
-lang:
+lang: 
+  - en
+  - fr
 published: false
 ---
 ## A New Post
