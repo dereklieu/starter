@@ -1,5 +1,5 @@
 ---
-lang: fr
+lang: Other option
 published: false
 ---
 ## A New Post
