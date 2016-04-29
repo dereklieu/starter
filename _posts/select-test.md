@@ -1,6 +1,4 @@
 ---
-lang:
-published: false
 ---
 ## A New Post
 
