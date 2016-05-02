@@ -8,6 +8,9 @@ prose:
   media: 'media'
   metadata:
     _posts:
+      - name: "source"
+        field:
+          element: "hidden"
       - name: "lang"
         field:
           element: "multiselect"
