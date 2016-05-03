@@ -1,5 +1,8 @@
 ---
-lang: en
+source: ""
+lang: 
+  - en
+published: true
 ---
 ## A New Post
 
