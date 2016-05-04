@@ -18,8 +18,8 @@ prose:
         field:
           element: "textarea"
       - name: "select stuff"
-        placeholder: "select this!"
         field:
+          placeholder: "select this!"  
           element: "select"
           options:
             - name: ""
