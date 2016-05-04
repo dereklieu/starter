@@ -17,6 +17,7 @@ prose:
       - name: "textarea stuff"
         field:
           element: "textarea"
+          value: "default"
       - name: "text stuff"
         field:
           element: "text"
