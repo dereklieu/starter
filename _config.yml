@@ -11,6 +11,12 @@ prose:
       - name: "source"
         field:
           element: "hidden"
+      - name: "title"
+        field:
+          element: "text"
+      - name: "textarea stuff"
+        field:
+          element: "textarea"
       - name: "lang"
         field:
           element: "multiselect"
