@@ -17,6 +17,14 @@ prose:
       - name: "textarea stuff"
         field:
           element: "textarea"
+      - name: "text stuff"
+        field:
+          element: "text"
+      - name: "button stuff"
+        field: 
+          element: "button"
+          on: "on"
+          off: "off"
       - name: "select stuff"
         field:
           placeholder: "select this!"  
