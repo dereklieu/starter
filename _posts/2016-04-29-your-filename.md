@@ -2,7 +2,7 @@
 source: ""
 lang: ""
 published: true
-textarea stuff: ""
+textarea stuff: "<>"
 select stuff: ""
 title: Untitled
 text stuff: "''"
