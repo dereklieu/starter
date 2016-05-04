@@ -1,11 +1,8 @@
 ---
-source: ""
-lang: ""
 published: true
 textarea stuff: "<>"
-select stuff: ""
 title: Untitled
 text stuff: "''"
-button stuff: true
+button stuff: false
 ---
 If i put some content here.
