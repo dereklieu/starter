@@ -17,6 +17,14 @@ prose:
       - name: "textarea stuff"
         field:
           element: "textarea"
+      - name: "select stuff"
+        field:
+          element: "select"
+          options:
+            - name: "foo"
+              value: "foo"
+            - name: "foo"
+              value: "foo"
       - name: "lang"
         field:
           element: "multiselect"
