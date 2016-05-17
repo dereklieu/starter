@@ -5,7 +5,7 @@ button stuff: true
 published: false
 title: "textarea-test"
 something: other
-text stuff: "foo: bar"
+text stuff: "foo bar"
 ---
 ## A New Post
 
