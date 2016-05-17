@@ -22,8 +22,8 @@ prose:
           value: "default"
       - name: "text field"
         field:
-          label: "this is a text field"
           element: "text"
+          label: "this some text field"
       - name: "button stuff"
         field: 
           element: "button"
