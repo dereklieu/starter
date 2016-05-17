@@ -1,6 +1,5 @@
 ---
 textarea stuff: 
-  tit: tat
 button stuff: true
 published: false
 title: "textarea-test"
