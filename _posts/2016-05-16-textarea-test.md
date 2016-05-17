@@ -1,10 +1,11 @@
 ---
-textarea stuff: 
-button stuff: true
+textarea stuff: default
+button stuff: false
 published: false
 title: "textarea-test"
 something: other
-text stuff: "foo bar"
+text stuff: foo bar
+text field: "lorem ipsum: foo bar"
 ---
 ## A New Post
 
