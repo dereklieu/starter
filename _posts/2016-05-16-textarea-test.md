@@ -5,7 +5,7 @@ published: false
 title: "textarea-test"
 something: other
 text stuff: foo bar
-text field: "lorem ipsum: dolor fet"
+text field: "lorem ipsum: foo manaa"
 ---
 ## A New Post
 
