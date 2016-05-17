@@ -20,7 +20,7 @@ prose:
         field:
           element: "textarea"
           value: "default"
-      - name: "text stuff"
+      - name: "text field"
         field:
           element: "text"
       - name: "button stuff"
