@@ -16,6 +16,10 @@ prose:
       - name: "title"
         field:
           element: "text"
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
       - name: "textarea stuff"
         field:
           element: "textarea"
