@@ -7,7 +7,7 @@ text stuff: foo bar
 text field: 'colon: a simple phrase.'
 date: '2016-06-20 22:15 -0400'
 colon: a simple phrase.
-textarea stuff: 'colon: a simple phrase. and little did you know. something was amiss.'
+textarea stuff: 'colon: something.  other: something else.'
 different: altogether.
 ---
 ## A New Post
