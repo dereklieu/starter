@@ -6,7 +6,7 @@ something: other
 text stuff: foo bar
 text field: 'fatal femme: something or other. Don''t you get it?'
 date: '2016-06-20 22:15 -0400'
-textarea stuff: 'And finally, a different one altogether.'
+textarea stuff: Now we have something different.
 ---
 ## A New Post
 
