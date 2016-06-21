@@ -7,7 +7,7 @@ text stuff: foo bar
 text field: 'colon: a simple phrase.'
 date: '2016-06-20 22:15 -0400'
 colon: a simple phrase.
-textarea stuff: 'colon: something.  other: something else.'
+textarea stuff: I am a multiline object.
 different: altogether.
 ---
 ## A New Post
