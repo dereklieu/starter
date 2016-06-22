@@ -1,14 +1,8 @@
 ---
-button stuff: false
+date: '2016-06-21 23:01 -0400'
+button stuff: true
 published: false
-title: textarea-test
-something: other
-text stuff: foo bar
-text field: colon a simple phrase.
-date: '2016-06-20 22:15 -0400'
-colon: a simple phrase.
-different: altogether.
-textarea stuff: "bollocks" is what I said
+title: Untitled
 ---
 ## A New Post
 
