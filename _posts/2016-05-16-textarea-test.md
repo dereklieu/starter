@@ -3,7 +3,7 @@ date: '2016-06-21 23:01 -0400'
 button stuff: false
 published: false
 title: Untitled
-textarea stuff: default
+textarea stuff: OK what about "this" eh?
 text field: OK OK OK
 ---
 ## A New Post
