@@ -8,7 +8,7 @@ text field: colon a simple phrase.
 date: '2016-06-20 22:15 -0400'
 colon: a simple phrase.
 different: altogether.
-textarea stuff: 'stuff: a value'
+textarea stuff: 'stuff: something I don''t want to do.'
 ---
 ## A New Post
 
