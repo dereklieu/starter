@@ -1,6 +1,53 @@
-baseurl: /starter
+# Site settings
+title: ACLS Training Center
+url: https://www.acls.net
 permalink: pretty
-markdown: rdiscount
+
+# Post permalink
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      permalink: /:path/:basename:output_ext
+      layout: page
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: post
+  -
+    scope:
+      type: "articles"
+    values:
+      layout: page-without-sidebar
+      parent-name: "Educational Articles"
+      parent-href: "sitemap.htm"
+  -
+    scope:
+      type: "states"
+    values:
+      layout: state
+
+# Collections of files
+collections:
+  states:
+    output: true
+    permalink: "/:path.htm"
+  algorithms:
+    output: true
+    permalink: "/:path.htm"
+    layout: page-without-sidebar
+  articles:
+    output: true
+    permalink: "/:path.htm"
+    layout: page-without-sidebar
+  medical-news:
+    output: false
+
+exclude:
+  - README.md
+
 prose:
   rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
