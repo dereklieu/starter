@@ -7,7 +7,7 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
-    _medical-news:
+    _posts:
       - name: "date"
         field:
           element: "text"
