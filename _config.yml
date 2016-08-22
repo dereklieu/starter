@@ -3,7 +3,7 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: ''
-  ignore: 
+  ignore:
     - "_config.yml"
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
@@ -20,7 +20,19 @@ prose:
         field:
           element: "text"
           value: CURRENT_DATETIME
-      - name: "textarea stuff"
+      - name: "textarea stuff1"
+        field:
+          element: "textarea"
+          value: "default"
+      - name: "textarea stuff2"
+        field:
+          element: "textarea"
+          value: "default"
+      - name: "textarea stuff3"
+        field:
+          element: "textarea"
+          value: "default"
+      - name: "textarea stuff4"
         field:
           element: "textarea"
           value: "default"
@@ -29,13 +41,13 @@ prose:
           element: "text"
           label: "this some text field"
       - name: "button stuff"
-        field: 
+        field:
           element: "button"
           on: "on"
           off: "off"
       - name: "select stuff"
         field:
-          placeholder: "select this!"  
+          placeholder: "select this!"
           element: "select"
           options:
             - name: ""
