@@ -7,7 +7,7 @@ text field: OK OK OK;
 textarea stuff: 'ok: this: and this:'
 textarea stuff1: so on
 textarea stuff2: 'so: on'
-textarea stuff3: 'so: on: and there''s another thing.'
+textarea stuff3: ok's there now.
 textarea stuff4: default
 ---
 ## A New Post
