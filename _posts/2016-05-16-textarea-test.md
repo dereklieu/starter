@@ -6,7 +6,6 @@ title: Untitled
 text field: OK OK OK;
 textarea stuff: 'ok: this: and this:'
 textarea stuff1: so on
-textarea stuff2: 'ok: ok:'
 textarea stuff3: default
 textarea stuff4: default
 ---
