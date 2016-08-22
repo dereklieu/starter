@@ -4,7 +4,7 @@ button stuff: false
 published: false
 title: Untitled
 text field: OK OK OK;
-textarea stuff: OK FINE go fuck multiline okok ok;; And then what?? ; OK.
+textarea stuff: <script>alert('hi');</script>
 ---
 ## A New Post
 
