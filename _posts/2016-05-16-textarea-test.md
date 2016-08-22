@@ -5,10 +5,10 @@ published: false
 title: Untitled
 text field: OK OK OK;
 textarea stuff: 'ok: this: and this:'
-textarea stuff1: 'null: null'
-textarea stuff2: undefined
-textarea stuff3: 0
-textarea stuff4: 'ok: ok: ok:'
+textarea stuff1: so on
+textarea stuff2: default
+textarea stuff3: default
+textarea stuff4: default
 ---
 ## A New Post
 
