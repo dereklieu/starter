@@ -6,7 +6,6 @@ title: Untitled
 text field: OK OK OK;
 textarea stuff: 'ok: this: and this:'
 textarea stuff1: so on
-textarea stuff2: 'so: on'
 textarea stuff4: here's another thing.
 ---
 ## A New Post
