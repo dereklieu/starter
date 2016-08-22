@@ -4,7 +4,7 @@ button stuff: false
 published: false
 title: Untitled
 text field: OK OK OK;
-textarea stuff: ok&58; then
+textarea stuff: ok
 ---
 ## A New Post
 
