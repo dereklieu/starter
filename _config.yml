@@ -2,7 +2,7 @@ baseurl: /starter
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: ''
+  rooturl: '/_drafts'
   ignore:
     - "_config.yml"
   siteurl: 'http://prose.github.io/starter/'
@@ -23,19 +23,19 @@ prose:
       - name: "textarea stuff1"
         field:
           element: "textarea"
-          value: "default"
+          placeholder: "default"
       - name: "textarea stuff2"
         field:
           element: "textarea"
-          value: "default"
+          placeholder: "default"
       - name: "textarea stuff3"
         field:
           element: "textarea"
-          value: "default"
+          placeholder: "default"
       - name: "textarea stuff4"
         field:
           element: "textarea"
-          value: "default"
+          placeholder: "default"
       - name: "text field"
         field:
           element: "text"
