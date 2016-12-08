@@ -2,7 +2,7 @@ baseurl: /starter
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: '/_drafts'
+  rooturl: '_drafts'
   ignore:
     - "_config.yml"
   siteurl: 'http://prose.github.io/starter/'
