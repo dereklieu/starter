@@ -46,8 +46,8 @@ prose:
     _data:
       - name: "select stuff"
         field:
-          placeholder: "select this!"
           element: "select"
+          label: "single select"
           options:
             - name: ""
             - "foo"
@@ -56,7 +56,7 @@ prose:
       - name: "lang"
         field:
           element: "multiselect"
-          label: "Select language"
+          label: "multi language"
           placeholder: "language"
           options:
             - name: "English"
