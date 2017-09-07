@@ -52,8 +52,8 @@ prose:
             - name: ""
             - name: "foo"
               value: "foo"
-            - name: "foo"
-              value: "foo"
+            - name: "bar"
+              value: "bar"
       - name: "lang"
         field:
           element: "multiselect"
