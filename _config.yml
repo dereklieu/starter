@@ -60,6 +60,7 @@ prose:
           placeholder: "language"
           value: 
             - "en"
+            - "fr"
           options:
             - name: "English"
               value: "en"
