@@ -50,7 +50,7 @@ prose:
           value: "foo"
           options:
             - name: ""
-            - name: "foo"
+            - value: "foo"
             - name: "bar"
               value: "bar"
       - name: "lang"
