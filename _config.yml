@@ -47,10 +47,10 @@ prose:
         field:
           placeholder: "select this!"
           element: "select"
+          value: "foo"
           options:
             - name: ""
             - name: "foo"
-              value: "foo"
             - name: "bar"
               value: "bar"
       - name: "lang"
