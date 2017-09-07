@@ -43,6 +43,7 @@ prose:
           element: "button"
           on: "on"
           off: "off"
+    _data:
       - name: "select stuff"
         field:
           placeholder: "select this!"
@@ -62,7 +63,3 @@ prose:
               value: "en"
             - name: "French"
               value: "fr"
-    _data:
-      - name: "title"
-        field:
-          element: "text"
