@@ -61,6 +61,7 @@ prose:
           value: 
             - "en"
             - "fr"
+            - "br"
           options:
             - name: "English"
               value: "en"
