@@ -47,7 +47,6 @@ prose:
         field:
           placeholder: "select this!"
           element: "select"
-          value: "foo"
           options:
             - name: ""
             - name: "foo"
