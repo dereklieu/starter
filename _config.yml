@@ -58,6 +58,7 @@ prose:
           element: "multiselect"
           label: "Select language"
           placeholder: "language"
+          value: "en"
           options:
             - name: "English"
               value: "en"
