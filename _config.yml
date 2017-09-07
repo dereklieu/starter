@@ -48,6 +48,7 @@ prose:
         field:
           element: "select"
           label: "single select"
+          value: "foo"
           options:
             - name: ""
             - "foo"
@@ -58,6 +59,9 @@ prose:
           element: "multiselect"
           label: "multi language"
           placeholder: "language"
+          value:
+            - "en"
+            - "fr"
           options:
             - name: "English"
               value: "en"
