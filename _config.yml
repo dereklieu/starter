@@ -38,6 +38,7 @@ prose:
         field:
           element: "text"
           label: "this some text field"
+          value: CURRENT_USER
       - name: "button stuff"
         field:
           element: "button"
