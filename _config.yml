@@ -2,7 +2,6 @@ baseurl: /starter
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: 'src/content'
   siteurl: 'http://athletesinaction.org'
   relativeLinks: 'http://athletesinaction.org'
   media: 'media'
