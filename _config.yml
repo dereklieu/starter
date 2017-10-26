@@ -2,69 +2,119 @@ baseurl: /starter
 permalink: pretty
 markdown: rdiscount
 prose:
-  rooturl: ''
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  rooturl: 'src/content'
+  siteurl: 'http://athletesinaction.org'
+  relativeLinks: 'http://athletesinaction.org'
   media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
   metadata:
-    _posts:
-      - name: "source"
-        field:
-          element: "hidden"
+    src/content:
       - name: "title"
         field:
+          label: "Title"
           element: "text"
+          help: "70 Character Max for Google and Social Media"
+      - name: "summary"
+        field:
+            label: "Summary"
+            element: "text"
+      - name: "slug"
+        field: 
+          label: "URL of Page"
+          element: "text"
+          help: "should be the title, with dashed insterted instead of spaces"
       - name: "date"
         field:
+          label: "date"
+          help: "YYYY-MM-DD"
           element: "text"
-          value: CURRENT_DATETIME
-      - name: "textarea stuff1"
+      - name: "type"
         field:
-          element: "textarea"
-          placeholder: "default"
-      - name: "textarea stuff2"
-        field:
-          element: "textarea"
-          placeholder: "default"
-      - name: "textarea stuff3"
-        field:
-          element: "textarea"
-          placeholder: "default"
-      - name: "textarea stuff4"
-        field:
-          element: "textarea"
-          placeholder: "default"
-      - name: "text field"
-        field:
-          element: "text"
-          label: "this some text field"
-          value: CURRENT_USER
-      - name: "button stuff"
-        field:
-          element: "button"
-          on: "on"
-          off: "off"
-    _data:
-      - name: "select stuff"
-        field:
+          label: "Post Type"
           element: "select"
-          label: "single select"
-          value: "foo"
           options:
-            - name: ""
-            - "foo"
-            - name: "bar"
-              value: "bar"
-      - name: "lang"
+            - name: "Under Review"
+              value: "underreview"
+            - name: "Playbook"
+              value: "devotion"
+            - name: "Quickhit"
+              value: "quickhit"
+            - name: "Workout"
+              value: "workout"
+            - name: "InnerView"
+              value: "innerview"
+      - name: "author"
+        field: 
+          label: "Author"
+          element: "text"
+          help: "i.e.  First Last"
+      - name: "keywords"
+        field: 
+          label: "Keywords"
+          element: "text"
+          help: "tags,seperarted,by, commas"
+      - name: "color"
+        field: 
+          label: "Primary Color"
+          element: "text"
+          help: "don't add a #'"
+      - name: "image"
+        field: 
+          label: "Image File Name"
+          element: "text"
+          help: "do not include path"
+      - name: "published"
         field:
-          element: "multiselect"
-          label: "multi language"
-          placeholder: "language"
-          value:
-            - "en"
-            - "fr"
-          options:
-            - name: "English"
-              value: "en"
-            - name: "French"
-              value: "fr"
+          label: "Published"
+          element: "checkbox"
+          help: "Leaving unchecked will hide the file from the index and archive pages."
+          value: true
+    src/content/quickhits:
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          help: "70 Character Max for Google and Social Media"
+      - name: "summary"
+        field:
+            label: "Summary"
+            element: "text"
+      - name: "slug"
+        field: 
+          label: "URL of Page"
+          element: "text"
+          help: "should be the title, with dashed insterted instead of spaces"
+      - name: "date"
+        field:
+          label: "date"
+          help: "YYYY-MM-DD"
+          element: "text"
+      - name: "type"
+        field:
+          element: "hidden"
+          value: "quickhit"          
+      - name: "author"
+        field: 
+          label: "Author"
+          element: "text"
+          help: "i.e.  First Last"
+      - name: "keywords"
+        field: 
+          label: "Keywords"
+          element: "text"
+          help: "tags,seperarted,by, commas"
+      - name: "image"
+        field: 
+          label: "Image File Name"
+          element: "text"
+          help: "Do not include path to the image.  Square and Rectangle version of the image should have the same filename."
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          help: "Leaving unchecked will hide the file from the index and archive pages."
+          value: true
