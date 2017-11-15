@@ -4,6 +4,10 @@ date: '2017-11-15 10:36 -0500'
 text field: dereklieu
 button stuff: true
 published: false
+select stuff: foo
+lang:
+  - en
+  - fr
 ---
 baseurl: /starter
 permalink: pretty
@@ -14,7 +18,7 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
-    _posts:
+    "":
       - name: "source"
         field:
           element: "hidden"
@@ -51,7 +55,7 @@ prose:
           element: "button"
           on: "on"
           off: "off"
-    "":
+    _data:
       - name: "select stuff"
         field:
           element: "select"
