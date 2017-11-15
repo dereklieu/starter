@@ -51,7 +51,7 @@ prose:
           element: "button"
           on: "on"
           off: "off"
-    _data:
+    "":
       - name: "select stuff"
         field:
           element: "select"
