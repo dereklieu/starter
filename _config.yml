@@ -2,7 +2,7 @@
 title: ''
 date: '2017-11-15 10:36 -0500'
 text field: dereklieu
-button stuff: true
+button stuff: false
 published: false
 select stuff: foo
 lang:
@@ -18,7 +18,7 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
-    "":
+    _posts:
       - name: "source"
         field:
           element: "hidden"
