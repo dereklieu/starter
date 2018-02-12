@@ -25,6 +25,13 @@ prose:
       - name: "title"
         field:
           element: "text"
+      - name: 'image'
+        field:
+          element: "image"
+          placeholder: "placeholder text"
+          value: "default value"
+          label: "this is an image"
+          help: "need help? try this"
       - name: "date"
         field:
           element: "text"
