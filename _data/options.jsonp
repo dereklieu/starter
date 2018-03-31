@@ -1,0 +1,18 @@
+otherCallback([
+{
+    "name": "Four",
+    "value": "four"
+},
+{
+    "name": "One",
+    "value": "one"
+},
+{
+    "name": "Three",
+    "value": "three"
+},
+{
+    "name": "Two",
+    "value": "two"
+}
+])
