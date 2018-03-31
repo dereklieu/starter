@@ -76,13 +76,5 @@ prose:
       - name: "lang"
         field:
           element: "multiselect"
-          label: "multi language"
-          placeholder: "language"
-          value:
-            - "en"
-            - "fr"
-          options:
-            - name: "English"
-              value: "en"
-            - name: "French"
-              value: "fr"
+          label: "jsonp test"
+          options: "https://billcane.github.io/demo-07/pages/jsons/tags.jsonp"
