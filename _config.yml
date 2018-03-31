@@ -78,8 +78,3 @@ prose:
           element: "multiselect"
           label: "jsonp test 0"
           options: "https://billcane.github.io/demo-07/pages/jsons/tags.jsonp"
-      - name: "jsonpmultiselect1"
-        field:
-          element: "multiselect"
-          label: "jsonp test 1"
-          options: "https://billcane.github.io/demo-07/pages/jsons/tags.jsonp"
