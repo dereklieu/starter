@@ -2,7 +2,7 @@
 date: '2016-11-15'
 button stuff: false
 published: false
-title: another title
+title: one title
 text field: OK OK OK;
 textarea stuff: 'ok: this: and this:'
 textarea stuff1: so on
