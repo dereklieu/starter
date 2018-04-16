@@ -73,13 +73,3 @@ prose:
             - "foo"
             - name: "bar"
               value: "bar"
-      - name: "jsonpmultiselect0"
-        field:
-          element: "multiselect"
-          label: "jsonp test 0"
-          options: "https://billcane.github.io/demo-07/pages/jsons/tags.jsonp"
-      - name: "jsonpmultiselect1"
-        field:
-          element: "multiselect"
-          label: "jsonp test 1"
-          options: "https://s3.amazonaws.com/prose-jsonp-test/options.jsonp?callback=otherCallback"
