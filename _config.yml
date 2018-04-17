@@ -22,6 +22,9 @@ prose:
       - name: "source"
         field:
           element: "hidden"
+      - name: "title"
+        field:
+          element: "text"
       - name: 'image'
         field:
           element: "image"
