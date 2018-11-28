@@ -1,6 +1,8 @@
 ---
 published: false
 title: A post for all ages
+select stuff: foo
+hi: 'no'
 ---
 ## A New Post
 
