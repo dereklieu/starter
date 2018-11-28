@@ -4,6 +4,7 @@ title: A post for all ages
 select stuff: foo
 hi: 'no'
 'no': 'no'
+bo: bum
 ---
 ## A New Post
 
