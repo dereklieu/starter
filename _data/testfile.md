@@ -2,7 +2,7 @@
 select stuff: foo
 lang:
   - en
-  - fr
+  - jp
 published: false
 ---
 ## A New Post
