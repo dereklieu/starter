@@ -1,8 +1,8 @@
 ---
 published: false
 title: A post for all ages
-select stuff: bar
-hi: 'no'
+select stuff: foo
+hi: 'yes'
 ---
 ## A New Post
 
