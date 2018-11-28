@@ -1,8 +1,10 @@
 ---
 date: '2018-04-17 11:41 -0400'
 text field: dereklieu
-button stuff: true
+button stuff: false
 published: false
+title: Untitled
+textarea stuff1: afoul
 ---
 ## A New Post
 
