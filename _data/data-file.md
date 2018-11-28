@@ -3,7 +3,7 @@ published: false
 title: A post for all ages
 select stuff: foo
 hi: 'no'
-'no': 'yes'
+'no': 'no'
 ---
 ## A New Post
 
