@@ -2,7 +2,8 @@
 published: false
 title: A post for all ages
 select stuff: foo
-hi: 'yes'
+hi: 'no'
+'no': 'yes'
 ---
 ## A New Post
 
